@@ -1,0 +1,1 @@
+const Ninja = require ('../models/ninja.model');

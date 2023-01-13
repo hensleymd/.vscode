@@ -16,3 +16,5 @@ const NinjaSchema = new mongoose.Schema({
 }, {timestamps: true})
 
 const Ninja = mongoose.model("Ninja", NinjaSchema)
+
+module.exports = Ninja;

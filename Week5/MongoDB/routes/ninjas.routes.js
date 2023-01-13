@@ -1,0 +1,1 @@
+const NinjaController = require('../controllers/ninja.controller')
